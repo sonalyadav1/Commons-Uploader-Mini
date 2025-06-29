@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="commons_blue">#0066CC</color>
+    <color name="commons_blue_dark">#004499</color>
+    <color name="commons_blue_light">#4D94FF</color>
+    <color name="commons_green">#339966</color>
+    <color name="commons_green_dark">#227744</color>
+    <color name="commons_orange">#FF6600</color>
+    <color name="commons_red">#CC3333</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

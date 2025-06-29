@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Commons Uploader Mini</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="my_uploads">My Uploads</string>
+    <string name="title_hint">Enter image title</string>
+    <string name="description_hint">Enter description (optional)</string>
+    <string name="upload_success">Image uploaded successfully!</string>
+    <string name="upload_failed">Upload failed. Please try again.</string>
+    <string name="permission_required">Camera and storage permissions are required</string>
+    <string name="select_image_source">Select Image Source</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="confirm_delete">Are you sure you want to delete this upload?</string>
+    <string name="no_uploads">No uploads yet</string>
+    <string name="start_uploading">Start uploading images to see them here</string>
+</resources>
